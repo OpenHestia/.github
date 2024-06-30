@@ -1,4 +1,4 @@
-# OpenHestia: Home Enhancement System with local Inference & Artificial intelligence
+# Home Enhancement System with local Inference & Artificial intelligence
 
 OpenHestia is a smart home project, comprised of open-source, low cost, local-inference software and hardwware for smart home capabilities. The system's supported capabilities currently include:
 
